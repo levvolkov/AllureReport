@@ -1,11 +1,16 @@
-[![Java CI with Gradle](https://github.com/LevVolkov/AllureReport/actions/workflows/gradle.yml/badge.svg)](https://github.com/LevVolkov/AllureReport/actions/workflows/gradle.yml)
-
+<table>
+  <tr>
+    <td>
 <p align="center">
-<img width="80%" alt="Снимок экрана 2024-04-11 в 20 22 48" src="https://github.com/LevVolkov/AllureReport/assets/88002142/deeda33d-435f-499a-8151-58b80e17d881">
-<img width="80%" alt="Снимок экрана 2024-04-11 в 20 34 33" src="https://github.com/LevVolkov/AllureReport/assets/88002142/9cc10ff2-64a0-46e4-ac4f-24aba012adbf">
+<img width="49%" alt="Снимок экрана 2024-04-11 в 20 22 48" src="https://github.com/LevVolkov/AllureReport/assets/88002142/deeda33d-435f-499a-8151-58b80e17d881">
+<img width="49%" alt="Снимок экрана 2024-04-11 в 20 34 33" src="https://github.com/LevVolkov/AllureReport/assets/88002142/9cc10ff2-64a0-46e4-ac4f-24aba012adbf">
 </p>
+    </td>
+  </tr>
+</table>
+
    
-# Домашнее задание к занятию «4.1. Репортинг»
+# 9. Домашнее задание к занятию «4.1. Репортинг»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
